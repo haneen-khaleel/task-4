@@ -1,0 +1,13 @@
+body{background-color: antiquewhite;}
+.big{
+    text-align: center;
+    
+}
+.one{float: left;
+    width: 25%;
+
+    
+    ;}
+   .clearfix{
+    clear:left
+   }
